@@ -1,2 +1,2 @@
 # Bio-Info
-projet Bio-Info KASABY/MASRY
+projet Bio-Info KASABY/MASRI
